@@ -1,0 +1,42 @@
+[
+    {
+        "productName": "Cookies",
+        "quantity": "1531",
+        "price": ".15",
+        "date": {
+            "date": "2016-06-28 13:42:22.000000",
+            "timezone_type": 3,
+            "timezone": "America\/Los_Angeles"
+        }
+    },
+    {
+        "productName": "Teddy Bears",
+        "quantity": "500",
+        "price": "12.50",
+        "date": {
+            "date": "2016-06-28 14:53:05.000000",
+            "timezone_type": 3,
+            "timezone": "America\/Los_Angeles"
+        }
+    },
+    {
+        "productName": "Sunglasses",
+        "quantity": "122",
+        "price": "57.00",
+        "date": {
+            "date": "2016-06-28 13:43:07.000000",
+            "timezone_type": 3,
+            "timezone": "America\/Los_Angeles"
+        }
+    },
+    {
+        "productName": "Bingo Chip Packs",
+        "quantity": "324",
+        "price": "4.00",
+        "date": {
+            "date": "2016-06-28 14:52:24.000000",
+            "timezone_type": 3,
+            "timezone": "America\/Los_Angeles"
+        }
+    }
+]
